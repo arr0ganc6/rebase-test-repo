@@ -1,4 +1,3 @@
-Test Java project with git rebase
-╤ЄЁюър юЄ яхЁтюую ЁрчЁрсюЄўшър
-╤ЄЁюър юЄ тЄюЁюую ЁрчЁрсюЄўшър
-
+Test Java project with git rebase 
+Строка от первого разработчика 
+Строка от второго разработчика
